@@ -18,4 +18,4 @@
 - [Moodle de l'USTHB ](https://campusvirtuel.usthb.dz/)
 - [Site de la faculté de physique](https://fphy.usthb.dz/)
 ## **Program**
-![](./planning_section_B.jpg)
+![]()
