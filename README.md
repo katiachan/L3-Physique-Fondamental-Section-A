@@ -8,7 +8,7 @@
 |Ondes électromagnétiques| Terniche <sterniche@gmail.com>|/|
 |Electronique II|Doulache <n.khemicidoulache@gmail.com>|/|
 |Travaux Pratiques de Thermodynamique|/|/|
-|TP Analyse Numérique|Ouatizerga|/|
+|TP Analyse Numérique|Ouati Zerga|/|
 |Découverte|Boutkedjirt <tarek.boutkedjirt@gmail.com>|/|
 
 ## **Links**
