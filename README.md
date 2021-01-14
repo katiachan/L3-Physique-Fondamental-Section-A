@@ -22,5 +22,10 @@
 - [Moodle RR](https://campusvirtuel.usthb.dz/course/view.php?id=1068)
 - [Drive RR](https://drive.google.com/drive/folders/1EFRAG_fNhCzK0ZZPjbiivZ4b9uJKftnv?usp=sharing)
 
+## **Liens Youtube enregistrement des cours**
+| Module| Lien |
+|-------|------|
+|OEM|[Séance d'introduction](https://www.youtube.com/watch?v=irIhkKg6pyQ&list=PLIZIpUPE0JIwOxxckZvO-OiK9F-TMxLI3&index=1&t=2s)|
+
 ## **Program**
 ![](online-schedule.jpg)
