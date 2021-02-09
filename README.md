@@ -9,7 +9,7 @@
 |Electronique II|Doulache <n.khemicidoulache@gmail.com>|/|
 |TP Thermodynamique|/|/|
 |TP Analyse Numérique|Ouatizerga <ouabdela@gmail.com>|/|
-|Découverte|Boutkedjirt <tarek.boutkedjirt@gmail.com>|/|
+|Découverte (Acoustique)|Boutkedjirt <tarek.boutkedjirt@gmail.com>|/|
 
 ## **Links**
 - [Facebook](https://www.facebook.com/groups/789143575146217)
