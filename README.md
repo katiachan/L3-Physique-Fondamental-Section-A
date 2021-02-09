@@ -28,12 +28,9 @@
 | Module| Lien |
 |-------|------|
 |RR|<ul><li>[Cours 1](https://youtu.be/Ao9-7fZSUQA)</li><li>[Cours 2](https://youtu.be/UjDZhTN9k-s)</li></ul>|
-|OEM|<ul><li>[Cours 1](https://youtu.be/aDjwg0E36q8)</li>
-  <li>[TD 1](https://youtu.be/0xxz3eS6RJ0)</li></ul>|
+|OEM|<ul><li>[Cours 1](https://youtu.be/aDjwg0E36q8)</li><li>[TD 1](https://youtu.be/0xxz3eS6RJ0)</li></ul>|
 |ELN|<ul><li>[TP 0](https://youtu.be/kJmrPYVDrSc)</li></ul>|
-|TP AN|<ul><li>[TP 1](https://youtu.be/2wBJpOvK6Gg)</li>
-  <li>[TP 2](https://youtu.be/F_jzWTq4P8w)</li>
-  <li>[TP 3](https://youtu.be/B4_ed3BCuco)</li></ul>|
+|TP AN|<ul><li>[TP 1](https://youtu.be/2wBJpOvK6Gg)</li><li>[TP 2](https://youtu.be/F_jzWTq4P8w)</li><li>[TP 3](https://youtu.be/B4_ed3BCuco)</li></ul>|
 
 ## **Program**
 ![](online-schedule.jpg)
