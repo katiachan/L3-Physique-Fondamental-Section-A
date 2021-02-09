@@ -23,9 +23,17 @@
 - [Drive RR](https://drive.google.com/drive/folders/1EFRAG_fNhCzK0ZZPjbiivZ4b9uJKftnv?usp=sharing)
 
 ## **Liens Youtube enregistrement des cours**
+- [Youtube Channel Section A](https://www.youtube.com/channel/UCMT8jdFin-68KYbQF12flnQ)
+- [YT Channel Doulache (ELN)](https://www.youtube.com/channel/UCDKbiiKT0lYoIVtoVQd3yEQ)
 | Module| Lien |
 |-------|------|
-|OEM|[Séance d'introduction](https://www.youtube.com/watch?v=irIhkKg6pyQ&list=PLIZIpUPE0JIwOxxckZvO-OiK9F-TMxLI3&index=1&t=2s)|
+|RR|<ul><li>[Cours 1](https://youtu.be/Ao9-7fZSUQA)</li><li>[Cours 2](https://youtu.be/UjDZhTN9k-s)</li></ul>|
+|OEM|<ul><li>[Cours 1](https://youtu.be/aDjwg0E36q8)</li>
+  <li>[TD 1](https://youtu.be/0xxz3eS6RJ0)</li></ul>|
+|ELN|<ul><li>[TP 0](https://youtu.be/kJmrPYVDrSc)</li></ul>|
+|TP AN|<ul><li>[TP 1](https://youtu.be/2wBJpOvK6Gg)</li>
+  <li>[TP 2](https://youtu.be/F_jzWTq4P8w)</li>
+  <li>[TP 3](https://youtu.be/B4_ed3BCuco)</li></ul>|
 
 ## **Program**
 ![](online-schedule.jpg)
