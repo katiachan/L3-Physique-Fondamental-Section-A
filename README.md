@@ -3,7 +3,7 @@
 | Module      | Prof de Cours|Prof de Td|
 | ----------- | ----------- |-----------|
 | Mécanique Quantique II      | Cherbal <cherbalomar8@gmail.com>|/|
-| Analyse Numérique   | Idjimaren <s.idjimarene@gmail.com>|/|       
+| Analyse Numérique   | Idjimaren <s.idjimarene@gmail.com>|Hammache <hammache.faiza@yahoo.fr>|       
 |Relativité Restreinte| Bouzar <lilabouzar@hotmail.com>|Messamah <jmessamah@usthb.dz>|
 |Ondes électromagnétiques| Terniche <sterniche@gmail.com>|Derrar <kaddourz@yahoo.com>|
 |Electronique II|Doulache <n.khemicidoulache@gmail.com>|/|
