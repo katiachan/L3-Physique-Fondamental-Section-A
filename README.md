@@ -22,11 +22,11 @@
 - [Moodle RR](https://campusvirtuel.usthb.dz/course/view.php?id=1068)
 - [Drive RR](https://drive.google.com/drive/folders/1EFRAG_fNhCzK0ZZPjbiivZ4b9uJKftnv?usp=sharing)
 
-## **Liens Youtube**
+## **Youtube Channels**
 - [Youtube Channel Section A](https://www.youtube.com/channel/UCMT8jdFin-68KYbQF12flnQ)
 - [YT Channel Doulache (ELN)](https://www.youtube.com/channel/UCDKbiiKT0lYoIVtoVQd3yEQ)
 
-## **Teacher recordings**
+### **Videos made by teachers**
 | Module| Lien                               |
 |-------|------------------------------------|
 |RR     |<ul><li>[Cours 1](https://youtu.be/Ao9-7fZSUQA)</li><li>[Cours 2](https://youtu.be/UjDZhTN9k-s)</li></ul>|
